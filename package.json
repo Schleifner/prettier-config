@@ -1,0 +1,21 @@
+{
+  "name": "@schleifner/prettier-config",
+  "version": "1.0.0",
+  "description": "common prettier configuration for typescript repository",
+  "main": "config.cjs",
+  "keywords": [
+    "prettier",
+    "prettierconfig"
+  ],
+  "publishConfig": {
+    "repository": "https://www.npmjs.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Schleifner/prettier-config.git"
+  },
+  "contributors": [
+    "XMadrid <xinquan0203@163.com>"
+  ],
+  "license": "ISC"
+}
