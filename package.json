@@ -8,11 +8,12 @@
     "prettierconfig"
   ],
   "publishConfig": {
-    "repository": "https://www.npmjs.com/"
+    "repository": "https://registry.npmjs.org/",
+    "access": "public"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Schleifner/prettier-config.git"
+    "url": "git+https://github.com/Schleifner/prettier-config.git"
   },
   "contributors": [
     "XMadrid <xinquan0203@163.com>"
